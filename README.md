@@ -1,5 +1,9 @@
 # <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" align="center" width="60" height="60"> Cypress - Trello E2E tests 
 
+<p align="center">
+<img src="trello.gif"  width="80%" height="300">
+</p>
+
 ## Installation
 
 Clone the repository
